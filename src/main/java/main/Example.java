@@ -5,7 +5,7 @@ import java.util.List;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 
-public class Ex4 {
+public class Example {
 
 	public static void main(String[] args) {
 		Session s = Instance.getSessionFactory().openSession();
